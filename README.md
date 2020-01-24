@@ -1,1 +1,14 @@
 # Exemplos_JavaScript
+- Vetores 
+- CPF regular - O programa verifica se o numero do CPF é verdadeiro
+- Expressão regular
+- RG - regular - O programa verifica se o numero do RG é verdadeiro
+- Programa de medidas
+- Programa de Ordem inversa - P A L Í N D R O M O S
+- Valores crescentes
+- Pizza - Voto popular escolhe a pizza
+- Média
+- Valores maiores dentro de um percentual
+- Desconto no produto
+- Média dos divisores
+- Números inteiros 
